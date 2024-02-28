@@ -1,0 +1,33 @@
+
+.nav>li>a{
+    color:#6b6f7d;
+}
+.nav>li>a:hover{
+    color:#2dcb80;
+}
+
+.card-img-overlay{
+    max-height: 600px;
+    overflow: auto;
+    max-width: 50%;
+    text-align: left;
+    color: black;
+
+}
+
+.btn-success rounded-pill p-2 px-5{
+    background-color: #2cca80;
+}
+
+.card-body>button{
+    background-color: #2cca80;
+}
+
+.card-body>img{
+    background-color: #2cca80;
+}
+
+.footer{
+    background-color: rgb(2, 2, 25);
+    color: gray;
+}
